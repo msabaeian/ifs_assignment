@@ -1,0 +1,12 @@
+{
+	"path-intellisense.showHiddenFiles": true,
+	"path-intellisense.autoSlashAfterDirectory": false,
+	"path-intellisense.absolutePathToWorkspace": true,
+	"path-intellisense.mappings": {
+		"components": "${workspaceRoot}/src/components",
+		"constant": "${workspaceRoot}/src/constant",
+		"screens": "${workspaceRoot}/src/screens",
+		"store": "${workspaceRoot}/src/store",
+		"utilities": "${workspaceRoot}/src/utilities"
+	}
+}
